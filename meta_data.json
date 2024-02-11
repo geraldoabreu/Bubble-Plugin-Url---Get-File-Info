@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "analytics"
+    },
+    "demo_page": "https://teste-55937.bubbleapps.io/version-test/urlgetfileinfo",
+    "description": "Through an informed url, the plugin informs:\n\nFile type: (if it is PDF, PNG, JPG, GIF, provide a summary; if it is another type, provide the full mime type)\n\nFile size: if it is less than 1 kilobyte, inform it in bytes, if it is smaller than 1 megabyte, inform it in kilobytes, and if it is greater than or equal to 1 megabyte, inform it in megabytes.",
+    "image": "//meta-q.cdn.bubble.io/f1707608844214x679631685586350800/_8fd8b802-7ea8-4f77-a550-3df9870f961d.jpg",
+    "license": "open_source",
+    "link": "https://teste-55937.bubbleapps.io/version-test/urlgetfileinfo",
+    "name": "Url - Get File Info",
+    "plugin_instructions": "To use the plugin:\n\n- Add FileInfo element to the canvas.\n- Enter the File URL in \"File URL\".\n- Read the Content Type and Content Length information."
+}

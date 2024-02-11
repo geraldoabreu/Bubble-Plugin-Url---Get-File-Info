@@ -1,0 +1,44 @@
+{
+    "add_is_visible": true,
+    "can_fit_height": true,
+    "can_fit_width": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 2,
+        "width": 2
+    },
+    "display": "FileInfo",
+    "fields": {
+        "AAD": {
+            "caption": "File URL",
+            "doc": "URL from file to get info",
+            "editor": "DynamicValue",
+            "name": "file_url",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "MinWidth": false,
+        "resizable": false
+    },
+    "states": {
+        "AAE": {
+            "caption": "content_type",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "content_type",
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "content_length",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "content_length",
+            "value": "text"
+        }
+    }
+}
