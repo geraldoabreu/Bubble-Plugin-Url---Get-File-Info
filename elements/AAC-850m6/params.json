@@ -18,7 +18,7 @@
             "value": "text"
         }
     },
-    "icon": "ion-android-checkbox-blank",
+    "icon": "ion-ios-information-outline",
     "property_applications": {
         "MinWidth": false,
         "resizable": false
